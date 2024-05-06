@@ -22,6 +22,6 @@ jobs:
       env: 
           INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
       with:
-          text: A successful graphic update!
+          text: A successful graphic update! https://app.datawrapper.de/chart/rqirN/publish
     
   
