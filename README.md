@@ -1,1 +1,1 @@
-# wildfire_automation
+# graphic_automation
