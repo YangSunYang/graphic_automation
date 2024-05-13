@@ -1,4 +1,4 @@
-name: Graphic-update
+name: wildfire-graphic-update
 
 on:
   schedule:
